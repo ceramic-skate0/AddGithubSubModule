@@ -18,7 +18,7 @@ I had to...
 
 0. ``git clone https://github.com/{Account Name}/{REPO}``
 
-## Process to do this starts:
+## Then repeatable process to do this starts:
 
 1. ``cd {YOUR GITHUB REPO local box}`` move into repo dir
 2. ``git submodule add https://github.com/{Account Name of Hosting Account}/{REPO}``
