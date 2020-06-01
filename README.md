@@ -5,7 +5,7 @@ REF: https://github.blog/2016-02-01-working-with-submodules/
 
 Adding a Submodule
 
-SO.
+
 On git and Github to make a submodule work.
 I had to...
 
